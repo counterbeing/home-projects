@@ -11,7 +11,7 @@ Trying to see if I can figure out how to create my own BBotE.
 - Ratio should be about 1.5 cups of coffee grounds to 4 cups of water
 - Keep the cold brew as cold as possible
 - Extract in 3 passes
-- Extract using a Buchner Funnel with some kind of vacuum
+- Extract using a [[Buchner Funnel Coffee Extraction v1]] with some kind of vacuum
 - Coffee ground on the finer side
 
 ## Variables to play with
