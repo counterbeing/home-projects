@@ -1,6 +1,6 @@
 site_name: Home Projects # Change this to your site name
 site_description: A place to share progress on some of my projects around the house
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://counterbeing.github.io/home-projects
 
 theme:
   name: "material"
