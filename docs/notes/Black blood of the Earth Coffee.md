@@ -25,5 +25,5 @@ Trying to see if I can figure out how to create my own BBotE.
 
 
 ## Links
-- https://systlin.tumblr.com/post/133923713705/oh-god-how-do-you-do-the-triple-distilled-coffee
-- [Original source](https://www.funraniumlabs.com/the-black-blood-of-the-earth/)
+- [A tumbler post on how to make it](https://systlin.tumblr.com/post/133923713705/oh-god-how-do-you-do-the-triple-distilled-coffee) They admit that they've not had it, but managed to brew a rather strong concoction, I'm basing my starting point on this.
+- [Original source](https://www.funraniumlabs.com/the-black-blood-of-the-earth/) This is funranium labs, the original creator of BBotE
