@@ -1,7 +1,7 @@
 ---
 share: true
 tags:
-  - BBotE
+  -  BBotE
 ---
 
 Trying to see if I can figure out how to create my own BBotE.
@@ -20,6 +20,7 @@ Trying to see if I can figure out how to create my own BBotE.
 - Number of brew cycles
 - Type of coffee
 - The filter size
+- Maybe some kind of vacuum evaporation to concentrate it
 
 
 
